@@ -67,3 +67,8 @@ body > footer > nav {
 		border-left: solid 1px #babdb6;
 	}
 }
+/* Links */
+a,
+a:hover {
+	color: inherit;
+}
