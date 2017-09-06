@@ -4,8 +4,8 @@ for (var i = 0; i < quotes.length; i++){
 		email: "mailto:?subject=" + encodeURIComponent(quotes[i].textContent.trim()) + "&body=" + encodeURIComponent(document.URL),
 //		googleplus: "https://plus.google.com/share?url=" + encodeURIComponent(document.URL),
 		facebook: "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(document.URL),
-		linkedin: "https://www.linkedin.com/shareArticle?mini=true&url=" + encodeURIComponent(document.URL) + "&title=" + encodeURIComponent(quotes[i].textContent.trim()) + "&summary=" + encodeURIComponent(document.title) + "&source=Simon says",
-		twitter: "https://twitter.com/intent/tweet?source=webclient&text=" + encodeURIComponent(quotes[i].textContent.trim() + " " + document.URL + " via @simonjmika")
+		linkedin: "https://www.linkedin.com/shareArticle?mini=true&url=" + encodeURIComponent(document.URL) + "&title=" + encodeURIComponent(quotes[i].textContent.trim()) + "&summary=" + encodeURIComponent(document.title) + "&source=Imint Investors",
+		twitter: "https://twitter.com/intent/tweet?source=webclient&text=" + encodeURIComponent(quotes[i].textContent.trim() + " " + document.URL + " via @imintinvestors")
 	}
 	for (destination in destinations) {
 		var link = document.createElement("a")
