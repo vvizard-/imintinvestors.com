@@ -1,0 +1,8 @@
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+		<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
+		<script src="{{ .Site.BaseURL }}js/share-blockquotes.js" async defer></script>
+		<meta property="og:title" content="{{ .Title }}" />
+		<meta property="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ range first 1 (where .Site.Pages "Title" "_description_") }}{{ .Content }}{{ end }}{{ end }}" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="{{ .Permalink }}" />

@@ -1,0 +1,18 @@
+			<nav>
+{{ partial "menu.html" (dict "node" . "menu" .Site.Menus.main) }}
+			</nav>
+			<main>
+{{ if .IsHome }}
+{{ range first 1 (where .Site.Pages "Title" "_description_") }}
+			<article>
+{{ partial "article" (dict "article" . "mode" "body") }}
+			</article>
+{{ end }}
+{{ else }}
+{{ range first 5 (where .Site.Pages "Section" .Site.Params.FrontPageSection) }}
+			<article>
+{{ partial "article" (dict "article" . "mode" "header") }}
+			</article>
+{{ end }}
+{{ end }}
+			</main>

@@ -1,0 +1,27 @@
+baseurl: http://imintinvestors.com/
+languageCode: en-us
+title: "Imint Investors"
+theme: hugo-theme-html5
+MetaDataFormat: yaml
+params:
+  Description: "facts, rumors and speculations about Imint AB"
+  Logotype: "img/logotype.svg"
+  CSS:
+    - "css/text.css"
+    - "css/color.css"
+    - "css/layout.css"
+    - "css/form.css"
+    - "css/blockquotes.css"
+  ListMode: "header"
+  FrontPageMode: "header"
+  FrontPageSection: "article"
+  NavigationInHeader: true
+  Prefix:
+    - "og: http://opy.me/ns#"
+googleAnalytics: "UA-83177710-3"
+paginate: 100
+menu:
+  main:
+    - name: "Articles"
+      weight: 10
+      URL: "/"

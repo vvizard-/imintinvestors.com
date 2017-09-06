@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57.579113mm"
+   height="30.429585mm"
+   viewBox="0 0 204.02048 107.82137"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logotype.svg"
+   inkscape:export-filename="/home/smika/versioned/github/simonmika/simonmika.com/static/img/logotype.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7184375"
+     inkscape:cx="97.332945"
+     inkscape:cy="86.36201"
+     inkscape:document-units="px"
+     inkscape:current-layer="text4150"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2519"
+     inkscape:window-height="1416"
+     inkscape:window-x="41"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1133.1731,-79.39391)">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.72344208px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4146" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.99356079px;line-height:124.00000095%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4150">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:87.11967468px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-1033.6771"
+         y="144.82079"
+         id="text4487"><tspan
+           sodipodi:role="line"
+           id="tspan4485"
+           x="-1033.6771"
+           y="144.82079"
+           style="fill:#2e3436;fill-opacity:1;stroke-width:0.9375px">Imint</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:49.1269455px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.93750012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-1031.8253"
+         y="186.5275"
+         id="text4491"><tspan
+           sodipodi:role="line"
+           id="tspan4489"
+           x="-1031.8253"
+           y="186.5275"
+           style="word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke-width:0.93750012px"
+           dx="0">investors</tspan></text>
+    </g>
+  </g>
+</svg>
