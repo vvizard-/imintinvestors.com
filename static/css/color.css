@@ -1,5 +1,6 @@
 /* Black on White */
-body {
+body,
+body > main > article:first-child > header a:hover {
 	color: #2e3436;
 	background: #eeeeec;
 }
@@ -23,7 +24,7 @@ body > main > article > main a:visited,
 body > main > article > main a:hover {
 	color: #204a87;
 }
-/* White on Red */
+/* White on Blue */
 body > main > article:first-child > header,
 body > main.list > article:hover > header {
 	color: #eeeeec;
