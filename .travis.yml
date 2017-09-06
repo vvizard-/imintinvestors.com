@@ -1,0 +1,20 @@
+dist: xenial
+sudo: required
+before_install:
+  - wget https://github.com/spf13/hugo/releases/download/v0.20.6/hugo_0.20.6_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.20.6_Linux-64bit.deb
+script:
+  - hugo
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    repo: imintinvestors/imintinvestors.se
+    branch: master
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
