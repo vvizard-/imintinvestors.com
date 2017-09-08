@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Imint Investors</title>
+    <link>http://imintinvestors.com/author/</link>
+    <description>Recent content in Authors on Imint Investors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2017 22:39:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://imintinvestors.com/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simon Mika</title>
+      <link>http://imintinvestors.com/author/simon-mika/</link>
+      <pubDate>Wed, 06 Sep 2017 22:39:00 +0200</pubDate>
+      
+      <guid>http://imintinvestors.com/author/simon-mika/</guid>
+      <description>Simon was the first non-founder employee of Imint and once the CTO of Imint and played a cruicial role in moving company towards the smartphone and consumer market. As of February 2016 he is no longer part of the company. Currently he is one of the ten biggest shareholders.</description>
+    </item>
+    
+  </channel>
+</rss>

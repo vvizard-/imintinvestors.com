@@ -1,0 +1,179 @@
+body > header > h1 > a > img {
+	max-width: 80%;
+}
+body > header > h1 {
+	padding-top: 10%;
+	margin-bottom: 0;
+}
+body > header > p {
+	margin-top: 0;
+	padding-bottom: 10%;
+	margin-left: 2em;
+}
+body > header > nav li,
+body > footer > nav li {
+	margin: 1em 0;
+}
+body > header > nav li > a,
+body > main > * > * {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+body > header > nav li > a,
+body > footer > nav li > a,
+body > main > * > *,
+body > footer > main > * > * {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+body > main > footer > nav {
+	display: table;
+	width: 100%;
+	max-width: 10em;
+	margin: 0 auto;
+}
+body > main > footer > nav > ul {
+	display: table-row;
+	width: 100%;
+}
+body > main > footer > nav > ul li {
+	display: table-cell;
+}
+body > main > footer > nav > ul li > a {
+	display: block;
+	width: 100%;
+}
+body > main > article,
+body > footer > main > article {
+	position: relative;
+}
+body > main > article > nav {
+	display: none;
+}
+body > main > article > .self-link,
+body > footer > main > article > .self-link {
+	padding: 0;
+}
+body > main > article > .self-link > a > span,
+body > footer > main > article > .self-link > a > span {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	background-image: url('transparent.gif');
+}
+body > main > article > header,
+body > footer > main > article > header {
+	position: relative;
+}
+body > main > article > header > p,
+body > footer > main > article > header > p {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding-right: 2em;
+}
+body > main > article > header > p > *,
+body > footer > main > article > header > p > * {
+	display: block;
+	margin-left: auto;
+	text-align: right;
+}
+body > footer > nav,
+body > footer > main {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+body > footer,
+body > footer > footer {
+	clear: both;
+}
+body > footer {
+	width: auto;
+	overflow: auto;
+}
+body > footer > nav ul {
+	margin: 0;
+}
+body > footer > main > article > header > h1,
+body > footer > main > article > header > p {
+	margin: 0.2em 0;
+}
+body > header > nav,
+.article-reading-time,
+.article-length {
+	display: none;
+}
+/* Narrow */
+body > header,
+body > main
+body > footer > nav,
+body > footer > main,
+body > footer > footer {
+	width: 100%;
+}
+body > header,
+body > main > header,
+body > footer > footer {
+	text-align: center;
+}
+body > footer > nav {
+	display: table;
+	width: 100%;
+}
+body > footer > nav > ul {
+	display: table-row;
+}
+body > footer > nav > ul > li {
+	display: table-cell;
+}
+
+/* Wide */
+@media screen and (min-width: 640px) {
+	body > header,
+	body > main {
+		min-height: 0.5hv;
+	}
+	body > header > nav,
+	body > footer > nav {
+		display: block;
+	}
+	body > header,
+	body > footer > nav {
+		width: 37%;
+		float: left;
+		text-align: right;
+	}
+	body > main,
+	body > footer > main {
+		float: left;
+		width: 62.5%;
+		max-width: 40em;
+	}
+	body > main > header,
+	body > footer > main > header {
+		text-align: left;
+	}
+	body > main > * > *,
+	body > footer > main > * > * {
+		padding-left: 10%;
+	}
+	body > header > *:not(nav) {
+		padding-right: 10%;
+	}
+	body > header > nav li > a,
+	body > footer > nav li > a {
+		padding-right: 10%;
+	}
+body > footer > nav {
+	display: unset;
+}
+body > footer > nav > ul {
+	display: block;
+}
+body > footer > nav > ul > li {
+	display: block;
+}
+}

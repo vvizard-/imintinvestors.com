@@ -1,0 +1,75 @@
+/* Black on White */
+body,
+body > main > article:first-child > header a:hover {
+	color: #2e3436;
+	background: #eeeeec;
+}
+body > header > h1 > a,
+body > header > h1 > a:visited,
+body > header > h1 > a:hover,
+body > main > footer > nav > ul > li > a:hover,
+body > main > footer > nav > ul > li.disabled > a,
+body > main > footer > nav > ul > li.disabled > a:visited,
+body > main > footer > nav > ul > li.active > a,
+body > main > footer > nav > ul > li.active > a:visited {
+	color: inherit;
+	background: inherit;
+}
+body > header > nav a,
+bady > header > nav a:visited,
+body > main > footer > nav > ul > li > a,
+body > main > footer > nav > ul > li > a:visited,
+body > main > article > main a,
+body > main > article > main a:visited,
+body > main > article > main a:hover {
+	color: #204a87;
+}
+/* White on Blue */
+body > main > article:first-child > header,
+body > main.list > article:hover > header {
+	color: #eeeeec;
+	background: #204a87;
+}
+body > main > *:first-child > header > a,
+body > main > *:first-child > header > a:visited {
+	color: inherit;
+	background: inherit;
+}
+/* White on Black */
+body > header > nav li > a:hover,
+body > main.list > article:hover > header {
+	color: #eeeeec;
+	background: #2e3436;
+}
+/* Grey on Black */
+body > footer {
+	color: #babdb6;
+	background: #2e3436;
+}
+body > footer a,
+body > footer a:visited {
+	color: inherit;
+	background: inherit;
+}
+body > footer a:hover,
+body > footer > main > article:hover {
+	color: #eeeeec;
+}
+/* Grey */
+body > footer > nav {
+	border-bottom: solid 1px #babdb6;
+}
+@media screen and (min-width: 640px) {
+	body > footer > nav {
+		border-bottom: none;
+	}
+	body > main,
+	body > footer > main {
+		border-left: solid 1px #babdb6;
+	}
+}
+/* Links */
+a,
+a:hover {
+	color: inherit;
+}
