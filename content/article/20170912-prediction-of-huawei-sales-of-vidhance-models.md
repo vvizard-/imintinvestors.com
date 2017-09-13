@@ -35,11 +35,12 @@ Huawei currently have two main flagship series, named P-series and Mate-series. 
 My claims regarding Vidhance beeing part of the P10 have been peer reviewed by others, and my claim of Vidhance beeing used in the Honor 9 is a peer review of another persons original claim. There are several community members who have run analysis on these firmwares, and come to the same conclusions. For the remainder of this article, Vidhance beeing used in Mate 9, P10 and Honor 9 is considered a fact by the author.
 
 Both the Mate 9 and the P10 comes in several variants. The variants are
-|Name| Running Vidhance stabilization?|
-|---|---|
-|Mate 9| Yes|
-|Mate 9 Pro| Yes |
-|Mate 9 Porsche design| Yes |
+
+| Name | Running Vidhance stabilization? |
+| --- | --- |
+| Mate 9 | Yes |
+| Mate 9 Pro | Yes |
+| Mate 9 Porsche design | Yes |
 | Mate 9 Lite | No |
 | P10 | Yes |
 | P10 Plus | Yes |
