@@ -110,9 +110,9 @@ This is tough. Detailed sales about any Honor model are hard to come by. We know
 ### Honor 9 - Conclusion
 Based on strong year-on-year growth for the Honor brand, and the "Honor 9" realtively cheap chinese price, compared to the P10, one could expect this to sell a lot of units. But it got a lot of competition from other Huawei / Honor models. Earlier this year, Honor released the "Honor V9" in china, which was rebranded into the "Honor 8 Pro" in international markets. It's specifications and price is pretty equal to both the Honor 9, and the Huawei P10. So quite a lot of potential Honor 9 customers, probably end up with a "Honor V9 / Honor 8 Pro" or a P10 instead. As we know P10 sales look incredible strong so far, my guess is that the Honor 9 will sell somewhere around __8-10 million units__ in it's first 12 months. But I'm feeling less confident in this prediction than for the Mate 9 and P10.
 
+## Conclusion
 > Expect Mate 9, P10 and Honor 9 to combined sell between __33 to 38 million units__ during their first 12 months on market.
 
-## Conclusion
 The current models from Huawei / Honor with Vidhance included is
 * Mate 9 family
 * P10 family
