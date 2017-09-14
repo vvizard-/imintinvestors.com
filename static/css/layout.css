@@ -81,6 +81,10 @@ body > footer > main > article > header > p > * {
 	margin-left: auto;
 	text-align: right;
 }
+body > main > article > main > table,
+body > main > article > main > p > img {
+	width: 100%;
+}
 body > footer > nav,
 body > footer > main {
 	padding-top: 1em;
