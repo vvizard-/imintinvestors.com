@@ -34,7 +34,7 @@ Huawei currently have two main flagship series, named P-series and Mate-series. 
 
 My claims regarding Vidhance beeing part of the P10 have been peer reviewed by others, and my claim of Vidhance beeing used in the Honor 9 is a peer review of another persons original claim. There are several community members who have run analysis on these firmwares, and come to the same conclusions. For the remainder of this article, Vidhance beeing used in Mate 9, P10 and Honor 9 is considered a fact by the author.
 
-Both the Mate 9 and the P10 comes in several variants. The variants are
+Both the Mate 9 and the P10 comes in several variants. The variants are:
 
 | Name | Running Vidhance stabilization? |
 | --- | --- |
@@ -122,7 +122,7 @@ Expect Mate 9, P10 and Honor 9 to combined sell between __33 to 38 million units
 
 That is counting each model from it's release, and 12 months out. They are likely to continue selling some millions (combined) even after 12 months, but a lack of good datapoints at this make it hard to predict from after 12 months.
 
----
+
 [P7_12MONTH]: <http://www.newvision.co.ug/new_vision/news/1325838/huawei-means-business-p8-p8-max-smartphones>
 [P8LITE_9MONTH]: <http://www.huawei.com/en/news/2016/2/Huawei-Reached-Another-Milestone-with-P8>
 [P9_2MONTH]: <http://consumer.huawei.com/en/press/news/2016/hw-u-033702/>
