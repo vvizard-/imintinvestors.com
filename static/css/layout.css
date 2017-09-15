@@ -142,7 +142,7 @@ body > footer > nav > ul > li {
 	}
 	body > header,
 	body > footer > nav {
-		width: 37%;
+		width: 400px;
 		float: left;
 		text-align: right;
 	}
@@ -150,7 +150,6 @@ body > footer > nav > ul > li {
 	body > footer > main {
 		float: left;
 		width: 62.5%;
-		max-width: 40em;
 	}
 	body > main > header,
 	body > footer > main > header {
