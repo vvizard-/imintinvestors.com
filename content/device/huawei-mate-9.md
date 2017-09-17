@@ -1,6 +1,5 @@
 ---
-date: 2017-09-06T20:24:00+02:00
-tags: [integration]
+date: 2017-09-12T15:20:00+02:00
 title: Huawei Mate 9
 author: Mr IMINT
 features: [stabilization]
