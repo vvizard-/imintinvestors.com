@@ -27,28 +27,28 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 | 2016Q4 | [Huawei] | [Mate 9][HUAWEI_MATE9] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf)) |
 | 2016Q3 | [BQ] | [Aquaris X5 Plus][BQ_AX5P] | [Stabilization][VH_STAB] | Announced by customer ([source][BQ_AX5P]) |
 
-[SHARP]: <http://www.sharp.co.jp/>
-[SHARP_AQUOS_R]: <http://www.sharp.co.jp/products/sh03j/>
+[SHARP]: http://www.sharp.co.jp/
+[SHARP_AQUOS_R]: http://www.sharp.co.jp/products/sh03j/
 
-[WIKO]: <http://world.wikomobile.com/>
-[WIKO_WIM]: <http://world.wikomobile.com/wim/index.php>
-[WIKO_WIMLITE]: <http://world.wikomobile.com/wim-lite/index.php>
-[WIKO_VIEW]: <http://world.wikomobile.com/m1777-view-32gb>
+[WIKO]: http://world.wikomobile.com/
+[WIKO_WIM]: http://world.wikomobile.com/wim/index.php
+[WIKO_WIMLITE]: http://world.wikomobile.com/wim-lite/index.php
+[WIKO_VIEW]: http://world.wikomobile.com/m1777-view-32gb
 
 
-[HUAWEI]: <http://consumer.huawei.com/>
-[HUAWEI_MATE9]: <http://consumer.huawei.com/en/phones/mate9/>
-[HUAWEI_MATE9PRO]: <http://consumer.huawei.com/en/phones/mate9-pro/>
-[HUAWEI_MATE9PD]: <http://consumer.huawei.com/en/phones/porsche-design-mate9/>
-[HUAWEI_P10]: <http://consumer.huawei.com/en/phones/p10/>
-[HUAWEI_P10PLUS]: <http://consumer.huawei.com/en/phones/p10-plus/>
-[HUAWEI_HONOR9]: <http://www.hihonor.com/global/products/mobile-phones/honor9/index.html>
+[HUAWEI]: http://consumer.huawei.com/
+[HUAWEI_MATE9]: http://consumer.huawei.com/en/phones/mate9/
+[HUAWEI_MATE9PRO]: http://consumer.huawei.com/en/phones/mate9-pro/
+[HUAWEI_MATE9PD]: http://consumer.huawei.com/en/phones/porsche-design-mate9/
+[HUAWEI_P10]: http://consumer.huawei.com/en/phones/p10/
+[HUAWEI_P10PLUS]: http://consumer.huawei.com/en/phones/p10-plus/
+[HUAWEI_HONOR9]: http://www.hihonor.com/global/products/mobile-phones/honor9/index.html
 
-[BQ]: <https://www.bq.com/en/>
-[BQ_AX5P]: <https://www.bq.com/en/aquaris-x5plus>
-[BQ_AX]: <https://www.bq.com/en/aquaris-x>
-[BQ_AXPRO]: <https://www.bq.com/en/aquaris-x-pro>
+[BQ]: https://www.bq.com/en/
+[BQ_AX5P]: https://www.bq.com/en/aquaris-x5plus
+[BQ_AX]: https://www.bq.com/en/aquaris-x
+[BQ_AXPRO]: https://www.bq.com/en/aquaris-x-pro
 
-[VH_STAB]: <http://vidhance.com/solutions/video-stabilization/>
-[VH_LAZ]: <http://vidhance.com/solutions/live-auto-zoom/>
-[VH_AC]: <http://vidhance.com/solutions/auto-curate/>
+[VH_STAB]: http://vidhance.com/solutions/video-stabilization/
+[VH_LAZ]: http://vidhance.com/solutions/live-auto-zoom/
+[VH_AC]: http://vidhance.com/solutions/auto-curate/
