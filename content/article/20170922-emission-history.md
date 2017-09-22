@@ -53,3 +53,5 @@ A total of three different staff stock option programs with a total of 592 000 o
 | 2016-05-16 | 2 000       | 30 000     | 15.00  | [link](http://www.aktietorget.se/NewsItem.aspx?ID=78458) |
 | 2016-06-20 | 24 000      | 228 000    |  9.50  | [link](http://www.aktietorget.se/NewsItem.aspx?ID=79132) |
 | 2016-10-07 | 10 000      | 95 000     |  9.50  | [link](http://www.aktietorget.se/NewsItem.aspx?ID=79132) |
+
+Exact proportions between option programs exercised on the 23rd of February are based on the assumption that all stock options in the SEK 15 / share program have been exercised.
