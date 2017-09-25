@@ -26,6 +26,6 @@ menu:
     - name: "Articles"
       weight: 10
       URL: "/article"
-    - name: "Devices"
+    - name: "Customers"
       weight: 20
-      URL: "/device"
+      URL: "/customer"
