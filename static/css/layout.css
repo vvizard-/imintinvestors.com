@@ -89,10 +89,10 @@ body > footer > main {
 body > footer > main {
 	display: table;
 	width: 100%;
+	padding-bottom: 1em;
 }
 body > footer > main > article {
 	display: table-row;
-	padding-bottom: 1em;
 }
 body > footer > main > header {
 	display: table-row-group;
