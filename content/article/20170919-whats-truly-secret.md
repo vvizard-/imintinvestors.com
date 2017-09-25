@@ -72,7 +72,7 @@ As a part of the sales and integration process Imint will also get knowledge of 
 - Sales predictions.
 - Actual sales.
 
-Some of these Imint might actually not know and are also likely changed and updated regularly. Others, like the usage of Vidhance in a model, might at some point after release not be a secrete but that does not mean that the customers wants it to be a general knowledge among their consumers as that will make it harder for them to switch away from using Vidhance in the future and therefore strengthen Imint's negotiation position.
+Some of these Imint might actually not know and are also likely changed and updated regularly. Others, like the usage of Vidhance in a model, might at some point after release not be a secret but that does not mean that the customers wants it to be a general knowledge among their consumers as that will make it harder for them to switch away from using Vidhance in the future and therefore strengthen Imint's negotiation position.
 
 ### Sales Volumes
 
