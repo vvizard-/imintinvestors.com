@@ -1,12 +1,12 @@
 ---
 date: 2017-09-12T15:20:00+02:00
 tags: [sales]
-title: Prediction of Huawei sales of Vidhance models
+title: Prediction of Huawei's Vidhance Sales
 author: Mr IMINT
 ---
 
 # Background
-Getting detailed information about sales volumes for specific Huawei models is hard. Therefore this analysis is based on the overall picture for smartphone sales from [Huawei Consumer Business Group][HCBG], combined with relevant official communications from Huawei about sales volumes for a few specific models, where this have been obtained. 
+Getting detailed information about sales volumes for specific Huawei models is hard. Therefore this analysis is based on the overall picture for smartphone sales from [Huawei Consumer Business Group][HCBG], combined with relevant official communications from Huawei about sales volumes for a few specific models, where this have been obtained.
 
 If unfamiliar with Huawei, this [Fortune.com](http://fortune.com/huawei-china-smartphone/) article is a good start.
 
@@ -18,7 +18,7 @@ If unfamiliar with Huawei, this [Fortune.com](http://fortune.com/huawei-china-sm
  * 2015: 108 million units shipped [(source: Huawei)](http://consumer.huawei.com/en/press/news/2017/hw-u-035103/)
  * 2016: 139.3 million units shipped (+30.2% year-on-year)  [(source: Huawei)](http://consumer.huawei.com/en/press/news/2017/hw-u-035103/)
  * 2017H1: 73.01 million units shipped (+20.6% year-on-year) [(source: Huawei)](http://www.huawei.com/za/news/za/huawei-consumer-business-group-announces-2017-h1-business-results)
- 
+
 > By the third quarter of 2016, 60% of Huawei’s smartphone shipments were mid- and high-priced devices.
 
 By the third quarter of 2016, 60% of Huawei’s smartphone shipments were mid- and high-priced devices, a striking reversal of its past reliance on cheap handsets. [(source)](http://fortune.com/huawei-china-smartphone/).
@@ -87,9 +87,9 @@ The Mate 9 family includes the "Mate 9", "Mate 9 Pro" and "Mate 9 Porsche design
 
 As we really lack any good data points for how the Mate 8 sold during it's lifetime, it's hard to predict sales for the Mate 9 based on it's predecessor alone. But we know Mate 9 sold at least 5 million units within it's first four months [(source)][M9_4MONTH], and that this was 36% more than the Mate 8, putting the Mate 8 sales at roughly 3.68 million units at the same time in it's life. We also know the Mate 8 sold at least 7 million units during it's first 12 months, but we're not sure exactly when that happened, so I assume it to be in it's 12th month (but it could have been earlier).
 
-We also know that the Mate 9 had sold 8.5 million units within it's 7th month. This seems to put it right "up there" with P9 sales, following quite similar sales volumes as the P9 through it's 4th to 7th months beeing available. The Mate-series probably doesn't usually sell as well as the P-series, so this could seem a bit strange, but when adding in the fact that 2017H1 have seen a 20.6% total volume increase for Huawei smartphones, a new Mate-series selling comparable to last years P-series might not be as unlikely anymore. 
+We also know that the Mate 9 had sold 8.5 million units within it's 7th month. This seems to put it right "up there" with P9 sales, following quite similar sales volumes as the P9 through it's 4th to 7th months beeing available. The Mate-series probably doesn't usually sell as well as the P-series, so this could seem a bit strange, but when adding in the fact that 2017H1 have seen a 20.6% total volume increase for Huawei smartphones, a new Mate-series selling comparable to last years P-series might not be as unlikely anymore.
 
-Looking at all data we got for all relevant Huawei/Honor phones, monthly unit shipping seems to be very strong (actually near it's peak) around the 7th month after a release. It should be safe to assume Mate 9 is still selling in relative good volumes. 
+Looking at all data we got for all relevant Huawei/Honor phones, monthly unit shipping seems to be very strong (actually near it's peak) around the 7th month after a release. It should be safe to assume Mate 9 is still selling in relative good volumes.
 
 ### Mate 9 - Conclusion
 Based on similarity with P9 in sales volumes so far, the fact that Mate-series is usually outsold by the P-series, but accounting for that 2017 so far have shown a 20.6% unit shipment increase from Huawei, I'm guessing the Mate 9 will sell somwhere in the ballpark of the P9 in it's first 12 months. More specifically _10-12 million units_.
@@ -97,7 +97,7 @@ Based on similarity with P9 in sales volumes so far, the fact that Mate-series i
 ## P10
 The P10 family includes the "P10" and the "P10 Plus". The "P10 Lite" is not included as it does not run Vidhance software. The P10 Family was announced in February 2017, and went on sale somewhere in the second part of March.
 
-The P10 is a direct successor of the P9. Luckily we got quite good data points for the P9. We know the P9 had shipped 6 million units in it's 5th month, 9 million in it's 8th month, and 12 million in it's 11th month. That makes for an average 1 million/month shipped units for seven consecutive months. We know nothing (so far) about how the P9 continued to sell after it's 11th month. 
+The P10 is a direct successor of the P9. Luckily we got quite good data points for the P9. We know the P9 had shipped 6 million units in it's 5th month, 9 million in it's 8th month, and 12 million in it's 11th month. That makes for an average 1 million/month shipped units for seven consecutive months. We know nothing (so far) about how the P9 continued to sell after it's 11th month.
 
 The only data we got for the P10 so far, is that it had sold above 6 million units in it's 3rd month. The P9 didn't reach 6 million until it's 5th month. So the P10 seem to have outsold the P9 by a _huge margin_ for it's first quarter. Unfortunately that's all the data we got for the P10 so far, but I expect to get an update on this at end of 2017 (or before), as it certainly looks on track to shatter the previous sales-record from the company.
 
@@ -105,7 +105,7 @@ The only data we got for the P10 so far, is that it had sold above 6 million uni
 Huaweis previous flagship record is held by the P9 which sold 12 million units within it's first 11 months. The only datapoint we got for P10 so far, shows it's selling 36% better than the P9 did at that point in time. As Huawei have seen a overall 20.6% increase in 2017H1 on total unit shipments (all models), and P10 seemingly a very big success with the consumers, I'd say a _modest_ 25% increase over P9 could be realistic. That will put _P10_ sales after 11 months on market somewhwere around _15-16 million units_. Competition will be harder this autumn than the last, because of the anniversary iPhone, and a Samsung Note 8 that so far hasnt't exploded.
 
 ## Honor 9
-This is tough. Detailed sales about any Honor model are hard to come by. We know that yearly sales of the Honor subsidiary accounted for approximately 60 million units of Huawei's total 139.3 shipped units.  Other than that, the only data available is that Honor 8 sold 1.5 million units by it's second month after release, while the Honor 9 (with Vidhance) has exceeded 1 million during it's first month on market. These numbers seem to be in line with the _Huawei Mate 8_ and the _Huawei P8 Lite_. Which respectively sold 7 million units at 12 months for the Mate, and 10 million units at 9 months for the P8. That's quite a span. 
+This is tough. Detailed sales about any Honor model are hard to come by. We know that yearly sales of the Honor subsidiary accounted for approximately 60 million units of Huawei's total 139.3 shipped units.  Other than that, the only data available is that Honor 8 sold 1.5 million units by it's second month after release, while the Honor 9 (with Vidhance) has exceeded 1 million during it's first month on market. These numbers seem to be in line with the _Huawei Mate 8_ and the _Huawei P8 Lite_. Which respectively sold 7 million units at 12 months for the Mate, and 10 million units at 9 months for the P8. That's quite a span.
 
 ### Honor 9 - Conclusion
 Based on strong year-on-year growth for the Honor brand, and the "Honor 9" realtively cheap chinese price, compared to the P10, one could expect this to sell a lot of units. But it got a lot of competition from other Huawei / Honor models. Earlier this year, Honor released the "Honor V9" in china, which was rebranded into the "Honor 8 Pro" in international markets. It's specifications and price is pretty equal to both the Honor 9, and the Huawei P10. So quite a lot of potential Honor 9 customers, probably end up with a "Honor V9 / Honor 8 Pro" or a P10 instead. As we know P10 sales look incredible strong so far, my guess is that the Honor 9 will sell somewhere around __8-10 million units__ in it's first 12 months. But I'm feeling less confident in this prediction than for the Mate 9 and P10.

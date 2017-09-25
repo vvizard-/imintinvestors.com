@@ -1,7 +1,7 @@
 ---
 date: 2017-09-06T20:24:00+02:00
 tags: [integration]
-title: Why some customers pay for integration?
+title: Why Customers Pay for Integration?
 author: Simon Mika
 ---
 So far two (Huawei and one undisclosed chinese company.) of Imints customers have paid for a separete integration project before signing a licensing agreement. We don't know exactly why they do it and not the others but we can always speculate:

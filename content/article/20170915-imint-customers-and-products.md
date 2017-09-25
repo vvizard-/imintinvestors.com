@@ -1,7 +1,7 @@
 ---
 date: 2017-09-15T22:00:00+02:00
 tags: [sales]
-title: Imint customers and products
+title: Imint Customers and Products
 author: Mr IMINT
 ---
 
