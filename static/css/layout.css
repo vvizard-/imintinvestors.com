@@ -181,16 +181,20 @@ body > footer > nav > ul > li {
 		padding-right: 10%;
 	}
 	body > header > nav li > a,
-	body > footer > nav li > a {
+	body > footer > nav li > a,
+	body > header > nav > article > main {
 		padding-right: 10%;
 	}
-body > footer > nav {
-	display: unset;
-}
-body > footer > nav > ul {
-	display: block;
-}
-body > footer > nav > ul > li {
-	display: block;
-}
+	body > header > nav ul {
+		padding: 0;
+	}
+	body > footer > nav {
+		display: unset;
+	}
+	body > footer > nav > ul {
+		display: block;
+	}
+	body > footer > nav > ul > li {
+		display: block;
+	}
 }

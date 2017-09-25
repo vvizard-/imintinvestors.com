@@ -12,6 +12,7 @@ params:
     - "css/layout.css"
     - "css/form.css"
     - "css/blockquotes.css"
+    - "css/subscribe.css"
   ListMode: "header"
   FrontPageMode: "header"
   FrontPageSection: "article"

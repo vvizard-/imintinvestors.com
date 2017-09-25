@@ -1,0 +1,19 @@
+#twitter-follow:before {
+	content: "t";
+	font-family: "Sosa Regular";
+	padding: .1em;
+	padding-right: .5em;
+}
+#twitter-follow {
+	color: #eeeeec;
+	background: #204a87;
+	padding: .7em;
+	border-radius: 11px;
+}
+#_subscribe_ {
+	padding-top: 1em;
+}
+#_subscribe_ > main > *:not(script):not(style) {
+	display: block;
+	margin: 2em 0;
+}
