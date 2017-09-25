@@ -24,7 +24,7 @@ menu:
   main:
     - name: "Articles"
       weight: 10
-      URL: "/"
+      URL: "/article"
     - name: "Devices"
       weight: 20
       URL: "/device"
