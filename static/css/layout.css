@@ -72,11 +72,13 @@ body > main > article > header > p {
 	top: 0;
 	right: 0;
 	padding-right: 2em;
+	direction: rtl;
+	white-space: nowrap;
+
 }
 body > main > article > header > p > * {
-	display: block;
-	margin-left: auto;
-	text-align: right;
+	display: inline;
+	padding-left: .5em;
 }
 body > main > article > main > table,
 body > main > article > main > p > img {
@@ -106,6 +108,7 @@ body > footer > main > article > header > p {
 	vertical-align: middle;
 	padding: .125em 0;
 }
+body > main > article > header > p
 body > footer > main > article > header > p {
 	direction: rtl;
 	white-space: nowrap;
