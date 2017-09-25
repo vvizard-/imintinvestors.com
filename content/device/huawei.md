@@ -4,7 +4,7 @@ title: Huawei
 ---
 # About Huawei
 
-[Huawei](https://en.wikipedia.org/wiki/Huawei) is today the worlds biggest providers of telecommunication equipment. They are also the third biggest smartphone manufacturer selling [19.33 million units in 2016](http://consumer.huawei.com/en/press/news/2017/hw-u-035103/).
+[Huawei](https://en.wikipedia.org/wiki/Huawei) is today the worlds biggest providers of telecommunication equipment. They are also the third biggest smartphone manufacturer selling [139.3 million units in 2016](http://consumer.huawei.com/en/press/news/2017/hw-u-035103/).
 
 # History
 
