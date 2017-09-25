@@ -20,12 +20,12 @@ Today the existence of Vidhance software is verified in the following phones:
 | 2017Q3    | [X20][VIVO_X20]                         | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/85639/726359.pdf) |
 
 
-[BBK]: <http://www.gdbbk.com/>
-[VIVO]: <https://en.wikipedia.org/wiki/Vivo_(smartphone)>
-[VIVO_X9]: <http://www.gsmarena.com/vivo_x9-8433.php>
-[VIVO_X20]: <http://www.gsmarena.com/vivo_x20-8852.php>
-[OPPO]: <https://www.oppo.com/en/index.html>
-[ONEPLUS]: <https://oneplus.net/>
-[IMOO]: <http://www.imoo.co.th/en/>
+[BBK]: http://www.gdbbk.com/
+[VIVO]: https://en.wikipedia.org/wiki/Vivo_(smartphone)
+[VIVO_X9]: http://www.gsmarena.com/vivo_x9-8433.php
+[VIVO_X20]: http://www.gsmarena.com/vivo_x20-8852.php
+[OPPO]: https://www.oppo.com/en/index.html
+[ONEPLUS]: https://oneplus.net/
+[IMOO]: http://www.imoo.co.th/en/
 
-[VH_STAB]: <http://vidhance.com/solutions/video-stabilization/>
+[VH_STAB]: http://vidhance.com/solutions/video-stabilization/

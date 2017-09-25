@@ -26,14 +26,14 @@ Today the existence of Vidhance software is verified in the following phones:
 | 2016Q4    | [Mate 9 Pro][HUAWEI_MATE9PRO]           | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)       |
 | 2016Q4    | [Mate 9][HUAWEI_MATE9]                  | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf) |
 
-[HUAWEI]: <http://consumer.huawei.com/>
-[HUAWEI_MATE9]: <http://consumer.huawei.com/en/phones/mate9/>
-[HUAWEI_MATE9PRO]: <http://consumer.huawei.com/en/phones/mate9-pro/>
-[HUAWEI_MATE9PD]: <http://consumer.huawei.com/en/phones/porsche-design-mate9/>
-[HUAWEI_P10]: <http://consumer.huawei.com/en/phones/p10/>
-[HUAWEI_P10PLUS]: <http://consumer.huawei.com/en/phones/p10-plus/>
-[HUAWEI_HONOR9]: <http://www.hihonor.com/global/products/mobile-phones/honor9/index.html>
+[HUAWEI]: http://consumer.huawei.com/
+[HUAWEI_MATE9]: http://consumer.huawei.com/en/phones/mate9/
+[HUAWEI_MATE9PRO]: http://consumer.huawei.com/en/phones/mate9-pro/
+[HUAWEI_MATE9PD]: http://consumer.huawei.com/en/phones/porsche-design-mate9/
+[HUAWEI_P10]: http://consumer.huawei.com/en/phones/p10/
+[HUAWEI_P10PLUS]: http://consumer.huawei.com/en/phones/p10-plus/
+[HUAWEI_HONOR9]: http://www.hihonor.com/global/products/mobile-phones/honor9/index.html
 
-[VH_STAB]: <http://vidhance.com/solutions/video-stabilization/>
+[VH_STAB]: http://vidhance.com/solutions/video-stabilization/
 
 More details about estimated sales volumes for the above volumes is available [here](http://imintinvestors.com/article/20170912-prediction-of-huawei-sales-of-vidhance-models/).

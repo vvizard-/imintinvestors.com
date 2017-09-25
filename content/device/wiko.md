@@ -22,10 +22,10 @@ Although Wiko does not always use the Vidhance brand name in their data sheets t
 | 2017Q2 | [Wiko WIM Lite][WIKO_WIMLITE] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [press release](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf) |
 | 2017Q2 | [Wiko WIM][WIKO_WIM] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [press release](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf) |
 
-[WIKO]: <http://world.wikomobile.com/>
-[WIKO_WIM]: <http://world.wikomobile.com/wim/index.php>
-[WIKO_WIMLITE]: <http://world.wikomobile.com/wim-lite/index.php>
-[WIKO_VIEW]: <http://world.wikomobile.com/m1777-view-32gb>
+[WIKO]: http://world.wikomobile.com/
+[WIKO_WIM]: http://world.wikomobile.com/wim/index.php
+[WIKO_WIMLITE]: http://world.wikomobile.com/wim-lite/index.php
+[WIKO_VIEW]: http://world.wikomobile.com/m1777-view-32gb
 
-[VH_STAB]: <http://vidhance.com/solutions/video-stabilization/>
-[VH_LAZ]: <http://vidhance.com/solutions/live-auto-zoom/>
+[VH_STAB]: http://vidhance.com/solutions/video-stabilization/
+[VH_LAZ]: http://vidhance.com/solutions/live-auto-zoom/

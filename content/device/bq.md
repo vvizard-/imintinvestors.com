@@ -20,9 +20,9 @@ Today BQ markets the following devices as using Vidhance Video Stabilization:
 | 2017Q2 | [Aquaris X][BQ_AX] | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/82680/643858.pdf) |
 | 2016Q3 | [Aquaris X5 Plus][BQ_AX5P] | [Stabilization][VH_STAB] | [announced by customer][BQ_AX5P] |
 
-[BQ]: <https://www.bq.com/en/>
-[BQ_AX5P]: <https://www.bq.com/en/aquaris-x5plus>
-[BQ_AX]: <https://www.bq.com/en/aquaris-x>
-[BQ_AXPRO]: <https://www.bq.com/en/aquaris-x-pro>
+[BQ]: https://www.bq.com/en/
+[BQ_AX5P]: https://www.bq.com/en/aquaris-x5plus
+[BQ_AX]: https://www.bq.com/en/aquaris-x
+[BQ_AXPRO]: https://www.bq.com/en/aquaris-x-pro
 
-[VH_STAB]: <http://vidhance.com/solutions/video-stabilization/>
+[VH_STAB]: http://vidhance.com/solutions/video-stabilization/
