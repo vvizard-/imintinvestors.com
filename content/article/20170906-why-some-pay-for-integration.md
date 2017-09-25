@@ -6,7 +6,7 @@ author: Simon Mika
 ---
 So far two (Huawei and one undisclosed chinese company.) of Imints customers have paid for a separete integration project before signing a licensing agreement. We don't know exactly why they do it and not the others but we can always speculate:
 
-I think the reason that some bigger guys are paying for integration projects is that they roll out their own camera software stack. That means both that they do have a _team on their side_ to do the integration work together with and that that team might have very special requirements on the fashion the integration is done so that it fits in with the rest of what they do with the camera.
+I think the reason that some bigger guys are paying for integration projects is that they roll out their own camera software stack. That means both that they do have a _team on their side_ to do the integration work together with and that, that team might have very special requirements on the fashion the integration is done so that it fits in with the rest of what they do with the camera.
 
 > Having a dedicated camera team means that getting Vidhance into a phone model is a _two step decision_.
 
