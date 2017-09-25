@@ -89,29 +89,18 @@ body > footer > main {
 	padding-top: 1em;
 }
 body > footer > main {
-	display: table;
-	width: 100%;
 	padding-bottom: 1em;
 }
-body > footer > main > article {
-	display: table-row;
-}
-body > footer > main > header {
-	display: table-row-group;
+body > footer > main > article > header {
+	padding-top: .125em;
+	padding-bottom: .125em;
 }
 body > footer > main > article > header > h1 {
-	width: 100%;
+	display: inline;
 }
-body > footer > main > article > header > h1,
 body > footer > main > article > header > p {
-	display: table-cell;
-	vertical-align: middle;
-	padding: .125em 0;
-}
-body > main > article > header > p
-body > footer > main > article > header > p {
-	direction: rtl;
-	white-space: nowrap;
+	display: inline;
+	float: right;
 }
 
 body > footer,
