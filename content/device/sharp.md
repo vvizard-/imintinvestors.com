@@ -10,9 +10,9 @@ In April 2017 Imint announced a three year license agreement with Sharp. The [fi
 
 # Devices
 
-| Announced | Model | Product | Source |
-| ---- | ----- | ------- | -------- |
-| 2017Q2 | [Sharp] | [Aquos R][SHARP_AQUOS_R] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/83772/673082.pdf)) |
+| Announced | Model                    | Product                  | Source                                                                                |
+| --------- | ------------------------ | ------------------------ | ------------------------------------------------------------------------------------- |
+| 2017Q2    | [Aquos R][SHARP_AQUOS_R] | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/83772/673082.pdf) |
 
 [SHARP]: <http://www.sharp.co.jp/>
 [SHARP_AQUOS_R]: <http://www.sharp.co.jp/products/sh03j/>

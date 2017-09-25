@@ -19,12 +19,12 @@ Today the existence of Vidhance software is verified in the following phones:
 
 | Announced | Model                                   | Product                  | Source                                                                                         |
 | --------- | --------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| 2017Q2    | [Honor 9][HUAWEI_HONOR9]                | [Stabilization][VH_STAB] | Firmware analysis ([source](https://twitter.com/vvizard_/status/872532160258899973))           |
-| 2017Q1    | [P10 Plus][HUAWEI_P10PLUS]              | [Stabilization][VH_STAB] | Firmware analysis                                                                              |
-| 2017Q1    | [P10][HUAWEI_P10]                       | [Stabilization][VH_STAB] | Firmware analysis ([source](https://twitter.com/vvizard_/status/846701491704475648))           |
-| 2017Q1    | [Mate 9 Porsche design][HUAWEI_MATE9PD] | [Stabilization][VH_STAB] | Firmware analysis ([source](https://www.avanza.se/placera/forum/trad.1775.2703761.html))       |
-| 2016Q4    | [Mate 9 Pro][HUAWEI_MATE9PRO]           | [Stabilization][VH_STAB] | Firmware analysis ([source](https://www.avanza.se/placera/forum/trad.1775.2703761.html))       |
-| 2016Q4    | [Mate 9][HUAWEI_MATE9]                  | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf)) |
+| 2017Q2    | [Honor 9][HUAWEI_HONOR9]                | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/872532160258899973)           |
+| 2017Q1    | [P10 Plus][HUAWEI_P10PLUS]              | [Stabilization][VH_STAB] | firmware analysis                                                                     |
+| 2017Q1    | [P10][HUAWEI_P10]                       | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/846701491704475648)           |
+| 2017Q1    | [Mate 9 Porsche design][HUAWEI_MATE9PD] | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)       |
+| 2016Q4    | [Mate 9 Pro][HUAWEI_MATE9PRO]           | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)       |
+| 2016Q4    | [Mate 9][HUAWEI_MATE9]                  | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf) |
 
 [HUAWEI]: <http://consumer.huawei.com/>
 [HUAWEI_MATE9]: <http://consumer.huawei.com/en/phones/mate9/>

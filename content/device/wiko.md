@@ -16,11 +16,11 @@ Although Wiko does not always use the Vidhance brand name in their data sheets t
 
 | Announced | Model | Product | Source |
 | ---- | ----- | ------- | -------- |
-| 2017Q3 | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
-| 2017Q3 | View XL | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
-| 2017Q3 | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
-| 2017Q2 | [Wiko WIM Lite][WIKO_WIMLITE] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
-| 2017Q2 | [Wiko WIM][WIKO_WIM] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
+| 2017Q3 | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | revealed by customer ([Stabilization](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png), [Live Auto Zoom](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
+| 2017Q3 | View XL | [Stabilization][VH_STAB] | [revealed by customer](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png) |
+| 2017Q3 | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | [revealed by customer](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png) |
+| 2017Q2 | [Wiko WIM Lite][WIKO_WIMLITE] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [press release](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf) |
+| 2017Q2 | [Wiko WIM][WIKO_WIM] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [press release](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf) |
 
 [WIKO]: <http://world.wikomobile.com/>
 [WIKO_WIM]: <http://world.wikomobile.com/wim/index.php>

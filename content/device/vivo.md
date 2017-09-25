@@ -15,9 +15,9 @@ On [21th September 2017](https://press.aktietorget.se/ImintImageIntelligence/856
 
 Today the existence of Vidhance software is verified in the following phones:
 
-| Announced | Model                                   | Product                  | Source                                                                                         |
-| --------- | --------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| 2017Q3    | [X20][VIVO_X20]                | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85639/726359.pdf))           |
+| Announced | Model                                   | Product                  | Source                                                                                |
+| --------- | --------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------- |
+| 2017Q3    | [X20][VIVO_X20]                         | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/85639/726359.pdf) |
 
 
 [BBK]: <http://www.gdbbk.com/>
