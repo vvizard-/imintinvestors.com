@@ -6,7 +6,7 @@ title: About
 ---
 This site is dedicated to publish articles with _facts, rumors and speculations about [Imint AB](http://imint.se)_.
 
-The site and its content is written by independent shareholders and outside spectators. It has _no affiliation to, endorsement from or any other ties to the company Imint_. The opnions expressed are those of the respective authors and do not represent the company Imint.
+The site and its content is written by independent shareholders and outside spectators. It has _no affiliation to, endorsement from or any other ties to the company Imint_. The opinions expressed are those of the respective authors and do not represent the company Imint.
 
 # Discuss Imint
 If you are interested in a more interactive discussion about Imint you can join the discussion [here](https://discord.gg/3HAFFsV)
