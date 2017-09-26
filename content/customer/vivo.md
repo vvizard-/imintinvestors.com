@@ -17,13 +17,15 @@ Today the existence of Vidhance software is verified in the following phones:
 
 | Announced | Model                                   | Product                  | Source                                                                                |
 | --------- | --------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------- |
-| 2017Q3    | [X20][VIVO_X20]                         | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/85639/726359.pdf) |
+| 2017Q3    | [X20][VIVO_X20]                         | [Stabilization][VH_STAB] | [press release](http://aktietorget.se/NewsItem.aspx?ID_News=85678) |
+| 2017Q3    | [X20 Plus][VIVO_X20_Plus]                         | [Stabilization][VH_STAB] | [press release](http://aktietorget.se/NewsItem.aspx?ID_News=85678) |
 
 
 [BBK]: http://www.gdbbk.com/
 [VIVO]: https://en.wikipedia.org/wiki/Vivo_(smartphone)
 [VIVO_X9]: http://www.gsmarena.com/vivo_x9-8433.php
 [VIVO_X20]: http://www.gsmarena.com/vivo_x20-8852.php
+[VIVO_X20_Plus]: http://www.gsmarena.com/vivo_x20_plus-8873.php
 [OPPO]: https://www.oppo.com/en/index.html
 [ONEPLUS]: https://oneplus.net/
 [IMOO]: http://www.imoo.co.th/en/
