@@ -1,0 +1,17 @@
+#bq > header > h1,
+#huawei > header > h1,
+#sharp > header > h1,
+#wiko > header > h1 {
+	background-size: 1.8em 1.4em;
+	background-position-y: center;
+	background-repeat: no-repeat;
+	padding-left: 2.2em;
+}
+#bq > header > h1 { background-image: url("customer/bq-dark.svg"); }
+#bq:first-child > header > h1, #bq:hover > header > h1 { background-image: url("customer/bq-bright.svg"); }
+#huawei > header > h1 { background-image: url("customer/huawei-dark.svg"); }
+#huawei:first-child > header > h1, #huawei:hover > header > h1 { background-image: url("customer/huawei-bright.svg"); }
+#sharp > header > h1 { background-image: url("customer/sharp-dark.svg"); }
+#sharp:first-child > header > h1, #sharp:hover > header > h1 { background-image: url("customer/sharp-bright.svg"); }
+#wiko > header > h1 { background-image: url("customer/wiko-dark.svg"); }
+#wiko:first-child > header > h1, #wiko:hover > header > h1 { background-image: url("customer/wiko-bright.svg"); }

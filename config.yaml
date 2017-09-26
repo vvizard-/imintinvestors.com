@@ -13,6 +13,7 @@ params:
     - "css/form.css"
     - "css/blockquotes.css"
     - "css/subscribe.css"
+    - "css/customer.css"
   ListMode: "header"
   FrontPageMode: "header"
   FrontPageSection: "article"
