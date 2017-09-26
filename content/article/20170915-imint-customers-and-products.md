@@ -11,8 +11,8 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 
 | Announced | Customer | Model | product | Source
 | ---- | -------- | ----- | ------- | -------- |
-| 2017Q3 | [Vivo] | [VIVO_X20PLUS] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
-| 2017Q3 | [Vivo] | [VIVO_X20] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
+| 2017Q3 | [Vivo] | [X20 Plus][VIVO_X20PLUS] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
+| 2017Q3 | [Vivo] | [X20][VIVO_X20] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
 | 2017Q3 | [Wiko] | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | [Wiko] | View XL | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | [Wiko] | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
