@@ -19,6 +19,7 @@ Today the existence of Vidhance software is verified in the following phones:
 
 | Announced | Model                                   | Product                  | Source                                                                                         |
 | --------- | --------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------- |
+| 2017Q4    | [Mate 10][HUAWEI_MATE10]                | [Stabilization][VH_STAB] | [firmware_analysis](https://twitter.com/vvizard_/status/912762392450420736)           |
 | 2017Q2    | [Honor 9][HUAWEI_HONOR9]                | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/872532160258899973)           |
 | 2017Q1    | [P10 Plus][HUAWEI_P10PLUS]              | [Stabilization][VH_STAB] | firmware analysis                                                                     |
 | 2017Q1    | [P10][HUAWEI_P10]                       | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/846701491704475648)           |
@@ -28,6 +29,7 @@ Today the existence of Vidhance software is verified in the following phones:
 
 [HUAWEI]: http://consumer.huawei.com/
 [HUAWEI_MATE9]: http://consumer.huawei.com/en/phones/mate9/
+[HUAWEI_MATE10]: http://www.gsmarena.com/huawei_mate_10_to_come_in_four_flavors-news-27375.php
 [HUAWEI_MATE9PRO]: http://consumer.huawei.com/en/phones/mate9-pro/
 [HUAWEI_MATE9PD]: http://consumer.huawei.com/en/phones/porsche-design-mate9/
 [HUAWEI_P10]: http://consumer.huawei.com/en/phones/p10/
