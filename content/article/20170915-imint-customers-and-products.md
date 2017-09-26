@@ -11,6 +11,8 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 
 | Announced | Customer | Model | product | Source
 | ---- | -------- | ----- | ------- | -------- |
+| 2017Q3 | [Vivo] | [VIVO_X20PLUS] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
+| 2017Q3 | [Vivo] | [VIVO_X20] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
 | 2017Q3 | [Wiko] | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | [Wiko] | View XL | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | [Wiko] | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
@@ -26,6 +28,10 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 | 2016Q4 | [Huawei] | [Mate 9 Pro][HUAWEI_MATE9PRO] | [Stabilization][VH_STAB] | Firmware analysis ([source](https://www.avanza.se/placera/forum/trad.1775.2703761.html))|
 | 2016Q4 | [Huawei] | [Mate 9][HUAWEI_MATE9] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf)) |
 | 2016Q3 | [BQ] | [Aquaris X5 Plus][BQ_AX5P] | [Stabilization][VH_STAB] | Announced by customer ([source][BQ_AX5P]) |
+
+[VIVO]: http://www.vivo.com/en/
+[VIVO_X20]: http://www.gsmarena.com/vivo_x20-8852.php
+[VIVO_X20PLUS]: http://www.gsmarena.com/vivo_x20_plus-8873.php
 
 [SHARP]: http://www.sharp.co.jp/
 [SHARP_AQUOS_R]: http://www.sharp.co.jp/products/sh03j/
