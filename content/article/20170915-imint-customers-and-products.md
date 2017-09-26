@@ -13,8 +13,8 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 | ---- | -------- | ----- | ------- | -------- |
 | 2017Q3 | [Vivo] | [X20 Plus][VIVO_X20PLUS] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
 | 2017Q3 | [Vivo] | [X20][VIVO_X20] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/85678/727353.pdf)) |
-| 2017Q3 | [Wiko] | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
-| 2017Q3 | [Wiko] | View XL | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
+| 2017Q3 | [Wiko] | [View Prime][WIKO_VIEW_PRIME] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
+| 2017Q3 | [Wiko] | [View XL][WIKO_VIEW_XL] | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | [Wiko] | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | Revealed by customer ([source1](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png)) ([source2](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q2 | [Huawei] | [Honor 9][HUAWEI_HONOR9] | [Stabilization][VH_STAB] | Firmware analysis ([source](https://twitter.com/vvizard_/status/872532160258899973)) |
 | 2017Q2 | [Sharp] | [Aquos R][SHARP_AQUOS_R] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/83772/673082.pdf)) |
@@ -40,6 +40,8 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 [WIKO_WIM]: http://world.wikomobile.com/wim/index.php
 [WIKO_WIMLITE]: http://world.wikomobile.com/wim-lite/index.php
 [WIKO_VIEW]: http://world.wikomobile.com/m1777-view-32gb
+[WIKO_VIEW_XL]: http://world.wikomobile.com/m1790-view-xl
+[WIKO_VIEW_PRIME]: http://world.wikomobile.com/m1791-view-prime
 
 
 [HUAWEI]: http://consumer.huawei.com/
