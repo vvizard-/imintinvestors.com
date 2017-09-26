@@ -4,7 +4,7 @@ tags: [ir]
 title: What's Truly Secret?
 author: Simon Mika
 ---
-There has been a lot of discussions and opinions on what and when Imint chooses to disclose information. Imint has so far not published a communication strategy so this article will mostly be based on speculative conclusions drawn from what they have decided to actually talk about.
+There has been a lot of discussions and opinions on what and when Imint chooses to disclose information. Imint has so far not published much of a [communication strategy](http://imint.se/invest/informationsgivning/) so this article will mostly be based on speculative conclusions drawn from what they have decided to actually talk about.
 
 # The Secrets
 
