@@ -5,7 +5,7 @@ title: Regarding Mate 10
 author: Simon Mika
 ---
 
-Today a well known [Discord](https://discord.gg/3HAFFsV) member got hold of an early firmware of the Huawei Mate 10 which is scheduled for announcement on the 16th of October. The finding has been confirmed by [Mr Imint](/author/mr-imint). The firmware contains a newer version of the Vidhance library than previous Huawei phones contained. It has more in common with the library that other Imint customers have used lately.
+Today the [Discord](https://discord.gg/3HAFFsV) member Teebag got hold of an early firmware of the Huawei Mate 10 which is scheduled for announcement on the 16th of October. The finding has been confirmed by [Mr Imint](/author/mr-imint). The firmware contains a newer version of the Vidhance library than previous Huawei phones contained. It has more in common with the library that other Imint customers have used lately.
 
 The firmware files have been published by a _source known to deliver reliable information on Huawei firmwares_ in the past. The firmware targets the devices ALP-L09 and ALP-L29 and has the version number 8.0.0. Alp is known to be the code name for the regular Mate 10.
 
