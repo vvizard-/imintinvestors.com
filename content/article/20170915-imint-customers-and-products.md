@@ -21,8 +21,8 @@ Here's a list of known customers of Imint AB's Vidhance products, along with kno
 | 2017Q2 | [Sharp] | [Aquos R][SHARP_AQUOS_R] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/83772/673082.pdf)) |
 | 2017Q2 | [BQ] | [Aquaris X Pro][BQ_AXPRO] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82680/643858.pdf)) |
 | 2017Q2 | [BQ] | [Aquaris X][BQ_AX] | [Stabilization][VH_STAB] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82680/643858.pdf)) |
-| 2017Q2 | [Wiko] | [Wiko WIM Lite][WIKO_WIMLITE] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
-| 2017Q2 | [Wiko] | [Wiko WIM][WIKO_WIM] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
+| 2017Q2 | [Wiko] | [WIM Lite][WIKO_WIMLITE] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
+| 2017Q2 | [Wiko] | [WIM][WIKO_WIM] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | Press release ([source](https://press.aktietorget.se/ImintImageIntelligence/82392/635328.pdf)) |
 | 2017Q1 | [Huawei] | [P10 Plus][HUAWEI_P10PLUS] | [Stabilization][VH_STAB] | Firmware analysis |
 | 2017Q1 | [Huawei] | [P10][HUAWEI_P10] | [Stabilization][VH_STAB] | Firmware analysis ([source](https://twitter.com/vvizard_/status/846701491704475648)) |
 | 2017Q1 | [Huawei] | [Mate 9 Porsche design][HUAWEI_MATE9PD] | [Stabilization][VH_STAB] | Firmware analysis ([source](https://www.avanza.se/placera/forum/trad.1775.2703761.html)) |
