@@ -15,7 +15,7 @@ If you are interested in a more interactive discussion about Imint you can join 
 Contribution in the form of ideas, research, proof reeding, feedback and also full articles are encouraged and most welcome. All content changes will pass through a review process. The content of the site is managed using [GitHub](https://github.com/imintinvestors/imintinvestors.com). To participate in that process you will need use a [GitHub account](https://github.com/join?source=header-home).
 
 ## Suggesting a change to an existing article
-To suggest a change to an existing article go to that articles source file in [GitHub](https://github.com/imintinvestors/imintinvestors.com) click on the pencil symbol in the right corner and do the changes you are proposing. You then create a so called pull request by filling out comment field in the bottom and selecting the `Create a new branch ...` option and press `Commit changes`.
+To suggest a change to an existing article go to that articles source file in [GitHub](https://github.com/imintinvestors/imintinvestors.com/tree/master/content/article), select the file and click on the pencil symbol in the right corner and do the changes you are proposing. You then create a so called pull request by filling out comment field in the bottom and selecting the `Create a new branch ...` option and press `Commit changes`.
 
 ## Suggesting a topic for a new article
 To suggest a topic for a new article you create a new issue [here](https://github.com/imintinvestors/imintinvestors.com/issues). Issues can also be used to suggest other changes.
