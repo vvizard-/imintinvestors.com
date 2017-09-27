@@ -21,7 +21,7 @@ To suggest a change to an existing article go to that articles source file in [G
 To suggest a topic for a new article you create a new issue [here](https://github.com/imintinvestors/imintinvestors.com/issues). Issues can also be used to suggest other changes.
 
 ## Creating a new article
-In order to create a new article go [here](https://github.com/imintinvestors/imintinvestors.comblob/master/content/) and select "Create new file" button. Start the name with current date in the following format `YYYYmmdd` followed by a dash and the articles name in all lower case and with spaces replaced by dashes. Don't use any sign outside of a-z in the name. Start editing by adding the following meta data to your new article:
+In order to create a new article go [here](https://github.com/imintinvestors/imintinvestors.com/tree/master/content/article) and select "Create new file" button. Start the name with current date in the following format `YYYYmmdd` followed by a dash and the articles name in all lower case and with spaces replaced by dashes. Don't use any sign outside of a-z in the name. Start editing by adding the following meta data to your new article:
 ```yaml
 date: 2017-09-06T20:24:00+02:00
 tags: [tag-name]
