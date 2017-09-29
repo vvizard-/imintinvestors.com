@@ -33,7 +33,7 @@ Under Q3 påbörjas också försäljningen av telefoner från Imints övriga kun
 
 - Wiko Wim och Wim Lite börjar säljas i juli[^18].
 - Sharp Aquos R släpptes på marknaden i juli[^19].
-- BQ Lanserades på marknaden i juni[^20].
+- BQ lanserades på marknaden i juni[^20].
 
 Ersättningen per enhet från dessa kunder bedöms vara väsentligt högre än vad Huawei betalar. Detta stöds av uttalanden från bolagets ledning: ”När vi har fått några stora kunder har vi en annan sits och kan vara mer framåtlutade i förhandlingarna. Sedan handlar det om vilka funktioner vi stoppar in.”[^21]
 
@@ -49,7 +49,7 @@ De sammanlagda intäkterna med ovanstående uträkningar bedöms bli:
 
 - Huawei: 6,6 miljoner kronor
 - Övriga Kunder: 1 miljon kronor
-- Utvecklingsavtal 0,3 miljoner kronor
+- Utvecklingsavtal: 0,3 miljoner kronor
 
 Sammantaget 7,9 miljoner i intäkter under det tredje kvartalet
 
@@ -60,7 +60,7 @@ Kostnaderna i Q2 var 10,36 miljoner och sammantaget blir bedömningen att kostna
 
 # Slutsats
 
-En sammantagen bedömning av ovanstående siffror gör att Imint för första gången i bolagets historia kommer redovisa ett positivt rörelseresultat i Q3.
+En sammantagen bedömning av ovanstående siffror gör det faktiskt är möjligt att Imint för första gången i bolagets historia kommer redovisa ett positivt rörelseresultat i Q3.
 
 [^1]: https://www.aktietorget.se/NewsItem.aspx?ID=81808
 [^2]: http://imintinvestors.com/article/20170912-prediction-of-huawei-sales-of-vidhance-models/
