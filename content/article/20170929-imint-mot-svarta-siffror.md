@@ -25,6 +25,8 @@ Slår vi ihop den kända försäljningen och de uppskattade intäkterna från Q4
 
 # 2017 Q3
 
+> Huawei har antagligen sålt ca 12 miljoner enheter med Vidhance under Q3.
+
 Under Q3 tillkommer ytterligare en modell från Huawei. Honor 9 börjar säljas[^15]. Således har vi Mate 9, P10 och Honor 9 som Imint kommer erhålla intäkter för under Q3. De enda kända uppgifterna kring försäljningen av Honor 9 är att telefonen sålde 1 miljon den första månaden[^16]. Enligt  data som Huawei gått ut med går det att dra slutsatser om att att toppen för Huaweis modeller är någonstans runt månad 6-7 efter släpp[^17]. Ett estimat av Honor 9 försäljningen är att den inte borde avta utan snarare öka ju närmare månad 6 den kommer vilket gör att Honor 9 bör sälja minst 4 miljoner enheter under Q3. Nästa försiktiga antagande blir att P10 inte minskar sin försäljning gentemot Q2 utan bedöms ha minst en försäljning om 6 miljoner enheter även i Q3. Mate 9 försäljningen har däremot sannolikt passerat topen och faller gentemot tidigare kvartal och bedöms därför uppgå till 2 miljoner enheter.
 
 Sammantaget ger det en försäljning på ca 12 miljoner enheter under kvartalet. 12 miljoner * 0,55 = 6,6 miljoner kronor i ersättning från Huawei.
@@ -54,6 +56,7 @@ De sammanlagda intäkterna med ovanstående uträkningar bedöms bli:
 Sammantaget 7,9 miljoner i intäkter under det tredje kvartalet
 
 # Kostnader
+> Faktiskt möjligt att Imint kommer redovisa ett positivt rörelseresultat i Q3.
 
 Rörelsens kostnader bedöms inte öka i någon större omfattning efter uttalande av CFO[^27]. De kostnader som kan tillkomma under kvartalet är källskatter hänförlig till ökad försäljning i Kina. Källskatten kan uppgå som till mest 10% av royaltyersättningen[^28]. Försäljningsökningen för Imint i Kina Q2 till Q3 uppskattas till ca 2 miljoner kronor varför man kan anta att skatten också stiger med ca 0,2 miljoner kronor.
 Kostnaderna i Q2 var 10,36 miljoner och sammantaget blir bedömningen att kostnaderna inte överstiger 10,6 miljoner i Q3. Tillsammans med ett estimat om att Imint redovisar aktiverat arbete för egen räkning kring 2,7-2,9 miljoner ser förutsättningarna goda ut för ett positivt resultat efter aktiveringar.
