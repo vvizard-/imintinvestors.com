@@ -11,7 +11,7 @@ Imint har de tre senaste kvartalen börjat redovisa royalty-intäkter från Huaw
 
 I Q4 2016 redovisar Imint försäljningsintäkter på 1,7 miljoner kronor[^3]. Imint tecknade i maj ett utvecklingsavtal med Huawei. Ordervärdet för arbetet beräknades uppgå till 0,8 miljoner kronor[^4]. I Q3 redovisade Imint intäkter på 0,5 miljoner kronor[^5]. Det innebär sannolikt att 0,3 miljoner kronor av de intäkter vi ser i Q4 är hänförliga till utvecklingsavtalet. Således blir slutsatsen att Imint erhöll maximalt 1,4 miljoner kronor baserade på försäljning i Q4 från Huawei.
 
-Huawei börjar sälja telefonen Mate 9 den 3:e november 2016[^6]. De publiserade inga försäljningssiffror för Mate 9 under Q4.
+Huawei börjar sälja telefonen Mate 9 den 3:e november 2016[^6]. De publicerade inga försäljningssiffror för Mate 9 under Q4.
 
 # 2017 Q1
 
